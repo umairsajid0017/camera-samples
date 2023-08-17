@@ -9,6 +9,8 @@ To build the app directly from the command line, run:
 ./gradlew assembleDebug
 ```
 
+
+
 ## Test
 
 Unit testing and instrumented device testing share the same code. To test the app using Robolectric, no device required, run:
